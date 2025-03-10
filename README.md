@@ -4,6 +4,8 @@
 
 ✅ Automated Login – Securely logs into the Trading Central website.
 
+✅ Automatically Selects Exchange Country – Dynamically chooses each Exchange Country from the dropdown and applies various filters sequentially to extract the table.
+
 ✅ Smart Strategy Builder Navigation – Dynamically selects filters one by one, incorporating stock prices based on a combination of fundamental and technical stock screening criteria.
 
 ✅ Comprehensive Data Extraction – Automatically scrolls through different pages of the website, extracts all relevant table data, and saves it in a CSV file for easy analysis.
